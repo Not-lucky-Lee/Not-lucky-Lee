@@ -1,4 +1,5 @@
-### Hi there 👋
+### I , Me & MySelf
+         F Lee 👋
 
 <!--
 **Not-lucky-Lee/Not-lucky-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
